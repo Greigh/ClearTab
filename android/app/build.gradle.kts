@@ -71,5 +71,5 @@ dependencies {
 
     // Plaid Link for in-app bank connections (Pro). Drives the existing
     // /api/plaid link-token + exchange endpoints.
-    implementation("com.plaid.link:sdk-core:5.1.1")
+    implementation("com.plaid.link:sdk-core:5.5.2")
 }
